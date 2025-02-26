@@ -1,11 +1,17 @@
 import React from 'react'
 import '../css/Home.css'
+import Headshot from '../assets/headshot.jpg'
 
 function Home () {
   return (
     <div className="home">
-        <h1>Home</h1>
-        <p>Welcome to my personal website!</p>
+        <div>
+          <h1 className="welcome">Welcome to my Website!</h1>
+          <img src={Headshot} alt="Headshot" className='headshot'></img>
+        </div>
+        <div>
+          <p className='home-desc'>Welcome to my personal site, built with ReactJS and NodeJS. I hope you take some time to look around and explore my projects, experience, and passions in the software world.</p>
+        </div>
     </div>
   )
 }
