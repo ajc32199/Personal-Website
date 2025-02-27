@@ -16,7 +16,7 @@ function App() {
       <main className="main-content">
         <Routes>
           <Route path="/" element={<Home />}></Route>
-          <Route path="#/about" element={<About />}></Route>
+          <Route path="/about" element={<About />}></Route>
           <Route path="/projects" element={<Projects />}></Route>
           <Route path="/contact" element={<Contact />}></Route>
           <Route path="/experience" element={<Experience />}></Route>
