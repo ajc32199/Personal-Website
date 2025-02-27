@@ -10,7 +10,8 @@ function Home () {
           <img src={Headshot} alt="Headshot" className='headshot'></img>
         </div>
         <div>
-          <p className='home-desc'>Welcome to my personal site, built with ReactJS and NodeJS. I hope you take some time to look around and explore my projects, experience, and passions in the software world.</p>
+          <p className='home-desc'>
+            Welcome to my personal site, built with ReactJS and NodeJS. I hope you take some time to look around and explore my projects, experience, and passions in the software world, as well as learn a little more about me!</p>
         </div>
     </div>
   )
