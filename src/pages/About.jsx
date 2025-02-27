@@ -7,7 +7,7 @@ function About() {
       <h1 className='header-1'>About Me!</h1>
     </div>
     <div>
-      <p1>My name is Adam Chiarella, and Im a fourth year Computer Science Student studying at UMN - Duluth, graduation in May 2025.</p1>
+      <p>My name is Adam Chiarella, and Im a fourth year Computer Science Student studying at UMN - Duluth, graduation in May 2025.</p>
       <p>
         I spent four years in the US Marine Corps, where I served with 1st Bn, 4th Marines in San Diego, CA. There, I had the honor
         of serving as a Mortars squad leader, supervising and directing the personal, professional, and tactical development of my Marines.
